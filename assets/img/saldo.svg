@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="114.723mm" height="114.723mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1715.8 1715.8"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="662" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Futura Md BT">
+		<font-face-src>
+			<font-face-name name="Futura Md BT Medium"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="$" horiz-adv-x="604" d="M67.0002 154.667l92.166 41.1662c7.83421,-27.9999 21.5001,-49.8331 41.1673,-65.3328 19.4996,-15.3332 44.9995,-24.8338 76.6662,-28.5006l0 223.167c-66.8326,27.3338 -115.333,57.3331 -145.499,90.0001 -30.3334,32.6669 -45.5002,71.1666 -45.5002,115.5 0,51.667 16.9996,94.334 50.8333,127.834 33.8326,33.4996 80.4995,53.9994 140.166,61.4995l0 54.6666 50.9998 0 0 -55.6658c46.6669,-4.16742 85,-15.8339 115,-34.6674 29.8339,-18.8335 51.3339,-44.9995 64.0006,-78.5001l-90.1677 -44.833c-10.9993,17.1672 -23.666,30.833 -37.999,40.6666 -14.3341,10.0001 -31.3337,16.8331 -50.8343,20.3333l0 -196.334c79.8334,-37.3329 133.501,-71.3331 160.834,-102 27.5003,-30.6665 41.1673,-68.5 41.1673,-113.667 0,-58.9995 -17.5002,-106.667 -52.5007,-142.833 -35.1659,-36.3337 -85,-58.3334 -149.5,-66.1665l0 -83.0006 -50.9998 0 0 81.0002c-57.9993,3.83331 -104.5,18.8335 -139.667,44.834 -35.1659,26.166 -58.6664,62.9993 -70.3329,110.833zm209.999 464.333c-23.8325,-7.16704 -41.1662,-17.1672 -51.8335,-30.0004 -10.8328,-12.8332 -16.1659,-29.8328 -16.1659,-50.9998 0,-20.1668 5.33312,-37.667 16.1659,-52.6672 10.6673,-14.9991 28.001,-28.8326 51.8335,-41.4993l0 175.167zm50.9998 -514c26.6667,6.83293 47.001,18.4994 61.001,35.3335 14,16.8331 20.9994,37.6659 20.9994,62.6663 0,21.5001 -6.49987,40.3336 -19.4996,56.1664 -13.0008,16.0004 -33.8337,31.0006 -62.5008,45.0006l0 -199.167z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Futura Md BT";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:69.65;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#373435}
+    .fnt0 {font-weight:normal;font-size:1419.01px;font-family:'Futura Md BT'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="857.9" cy="857.9" r="823.08"/>
+  <text x="434.33" y="1349.35"  class="fil1 fnt0">$</text>
+ </g>
+</svg>
